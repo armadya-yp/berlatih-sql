@@ -1,0 +1,3 @@
+Hari 5 – Berlatih SQL
+
+1. Membuat database myshop
